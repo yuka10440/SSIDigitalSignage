@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSI Digital Signage.CSharp.Plugins", "SSI Digital Signage.CSharp.Plugins.csproj", "{55C5BE59-EE42-F8D7-0CFA-186E9FFF9CFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSI Digital Signage.CSharp", "SSI Digital Signage.CSharp.csproj", "{C30514F4-26CB-DDB3-78D4-BBB100E12DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSI Digital Signage.CSharp.Editor", "SSI Digital Signage.CSharp.Editor.csproj", "{C45425F0-58F8-DB5D-116E-3CDE9490919B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C5BE59-EE42-F8D7-0CFA-186E9FFF9CFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C5BE59-EE42-F8D7-0CFA-186E9FFF9CFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C5BE59-EE42-F8D7-0CFA-186E9FFF9CFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C5BE59-EE42-F8D7-0CFA-186E9FFF9CFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C30514F4-26CB-DDB3-78D4-BBB100E12DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C30514F4-26CB-DDB3-78D4-BBB100E12DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C30514F4-26CB-DDB3-78D4-BBB100E12DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C30514F4-26CB-DDB3-78D4-BBB100E12DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C45425F0-58F8-DB5D-116E-3CDE9490919B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45425F0-58F8-DB5D-116E-3CDE9490919B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45425F0-58F8-DB5D-116E-3CDE9490919B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45425F0-58F8-DB5D-116E-3CDE9490919B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

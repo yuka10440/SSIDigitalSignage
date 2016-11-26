@@ -19,7 +19,7 @@ public class StartQuiz : ButtonToggleBase
     public override void ButtonTurnsOn()
     {
         TurnsOnGraphics();
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
     }
 
     public override void ButtonTurnsOff()

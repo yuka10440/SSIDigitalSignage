@@ -19,7 +19,7 @@ public class MovieToggle : ButtonToggleBase
     public override void ButtonTurnsOn()
     {
         TurnsOnGraphics();
-        SceneManager.LoadScene(6);
+        SceneManager.LoadScene(7);
     }
 
     public override void ButtonTurnsOff()

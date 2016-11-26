@@ -195,8 +195,9 @@
     <Compile Include="Assets\PracticeScript\patternTest.cs" />
     <Compile Include="Assets\PracticeScript\patternTest_2.cs" />
     <Compile Include="Assets\PracticeScript\raycastTest.cs" />
-    <Compile Include="Assets\Scripts\MoveToMovieList.cs" />
-    <Compile Include="Assets\Scripts\MoveToWordList.cs" />
+    <Compile Include="Assets\Scripts\CanvasFader.cs" />
+    <Compile Include="Assets\Scripts\GifTexture.cs" />
+    <Compile Include="Assets\Scripts\GoToStartScreen.cs" />
     <Compile Include="Assets\Scripts\Movie\FloatMovie.cs" />
     <Compile Include="Assets\Scripts\Movie\GoToNextMovie.cs" />
     <Compile Include="Assets\Scripts\Movie\Movie.cs" />
@@ -206,10 +207,13 @@
     <Compile Include="Assets\Scripts\Movie\MovieToggle3.cs" />
     <Compile Include="Assets\Scripts\Movie\MyCanvas.cs" />
     <Compile Include="Assets\Scripts\Movie\NextButton.cs" />
+    <Compile Include="Assets\Scripts\Movie\PlayAndPause.cs" />
     <Compile Include="Assets\Scripts\Quiz\ButtonToggle.cs" />
     <Compile Include="Assets\Scripts\Quiz\GotoScene1.cs" />
     <Compile Include="Assets\Scripts\Quiz\GotoScene2.cs" />
     <Compile Include="Assets\Scripts\Quiz\TapButton.cs" />
+    <Compile Include="Assets\Scripts\Result\MoveToMovieList.cs" />
+    <Compile Include="Assets\Scripts\Result\MoveToWordList.cs" />
     <Compile Include="Assets\Scripts\StartQuiz.cs" />
     <Compile Include="Assets\Scripts\Word\ChangeTextColor.cs" />
     <Compile Include="Assets\Scripts\Word\Float.cs" />
@@ -221,6 +225,8 @@
     <Compile Include="Assets\Scripts\Word\RandomCoordination.cs" />
     <Compile Include="Assets\Scripts\Word\ResizeCollider.cs" />
     <Compile Include="Assets\Scripts\Word\SelectWords.cs" />
+    <Compile Include="Assets\naichilab\FadeManager\Sample\FadeSample.cs" />
+    <Compile Include="Assets\naichilab\FadeManager\Scripts\FadeManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\LeapMotion\DemoResources\ScrollerText.txt" />

@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 [RequireComponent(typeof(RawImage))]
 [RequireComponent(typeof(AudioSource))]
@@ -18,7 +19,7 @@ public class MovieOnUI : MonoBehaviour
     AudioSource m_audioSource = null;
     //public AudioSource m_audioSource;
 
-    public PlayAndPause play;
+    //public PlayAndPause play;
 
     public bool IsPlaying
     {
